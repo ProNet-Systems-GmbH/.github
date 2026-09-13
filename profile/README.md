@@ -1,6 +1,6 @@
 # ProNet Systems GmbH
 
-Wir sind ein IT-Systemhaus in Arnsberg und warten die EDV-Infrastruktur mittelständischer
+Wir sind ein IT-Systemhaus in Arnsberg und warten die IT-Infrastruktur mittelständischer
 Unternehmen. Was uns im Alltag mit **TANSS** gefehlt hat, haben wir gebaut — und offengelegt.
 
 > **Der Quelltext liegt unter [@pronet-systems](https://github.com/pronet-systems).**
