@@ -6,8 +6,8 @@ Unternehmen. Was uns im Alltag mit **TANSS** gefehlt hat, haben wir gebaut — u
 > **Der Quelltext liegt unter [@pronet-systems](https://github.com/pronet-systems).**
 > Diese Seite ist der Wegweiser dorthin.
 
-Alle Werkzeuge haben denselben Zuschnitt: Sie sprechen unmittelbar mit der eigenen TANSS-Instanz —
-kein Zwischendienst, kein Herstellerkonto, keine Daten außerhalb des eigenen Hauses.
+Alle Werkzeuge haben denselben Zuschnitt: Sie sprechen unmittelbar mit der eigenen
+TANSS-Instanz — kein Zwischendienst, kein Herstellerkonto, keine Daten außerhalb des Hauses.
 
 ## Zeiterfassung
 
